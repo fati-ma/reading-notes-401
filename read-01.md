@@ -58,14 +58,14 @@ console.log(‘The sum total is:’, sum);
 
 ## Superagent()
 
-** with `.then()` **
+**with `.then()`**
 ```
 superagent.get('/api/pet')
  .then(console.log)
  .catch(console.error);
 ```
 
-** with `async` / `await` **
+**with `async` / `await`**
 ```
 (async () => {
   try {
