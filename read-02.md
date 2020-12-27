@@ -84,6 +84,6 @@ var person = require('./Person.js'); var person1 = new person('James', 'Bond'); 
 
 **Environment**: A combination of software and hardware in a computer.
 
-**Interpreter**: A program that directly executes instruction written in a programming or scripting language, without requiring them previously to have been compiled into a machine language program. Wikipedia
+**Interpreter**: A program that directly executes instruction written in a programming or scripting language, without requiring them previously to have been compiled into a machine language program. 
 
-**Compiler**: A program that translates computer code written in one programming language (the source language) into another language (the target language). Wikipedia
+**Compiler**: A program that translates computer code written in one programming language (the source language) into another language (the target language). 
