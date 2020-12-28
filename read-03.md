@@ -32,7 +32,7 @@ The behavior I am noticing is that beforeEach and afterEach are run before/after
 Big-time investment. For the simple case, you lose about 20% of the actual implementation, but for complicated cases, you lose much more.
 
 
-## Tprimary difference between ES6 Classes and Constructor/Prototype Classes
+## A primary difference between ES6 Classes and Constructor/Prototype Classes
 
 The most important difference between class- and prototype-based inheritance is that a class defines a type that can be instantiated at runtime, whereas a prototype is itself an object instance.
 
