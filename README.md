@@ -22,5 +22,6 @@
 |  Node Ecosystem, TDD | [Read:01](https://github.com/fati-ma/reading-notes-401/blob/main/read-01.md)   | 
 |  Classes, Inheritance, Functions | [Read:02](https://github.com/fati-ma/reading-notes-401/blob/main/read-02.md)   | 
 |  Data Modeling & NoSQL | [Read:03](https://github.com/fati-ma/reading-notes-401/blob/main/read-03.md)   | 
+|  Advanced Mongo | [Read:04](https://github.com/fati-ma/reading-notes-401/blob/main/read-04.md)   | 
 
 #### For further information you can contact me via [LinkedIn](linkedin.com/in/fatima-atiyya-9a0a471b1) or [Slack](ltuc-asac.slack.com).
