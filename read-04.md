@@ -18,16 +18,27 @@
 ## Vocabulary Terms
 
 **database**
+
 **data model**
+
 **CRUD**
+
 **schema**
+
 **sanitize**
+
 **Structured Query Language (SQL)**
+
 **Non SQL (NoSQL)**
+
 **MongoDB**
+
 **Mongoose**
+
 **record**
+
 **document**
+
 **Object Relation Mapping (ORM)**
 
 
