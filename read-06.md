@@ -21,7 +21,6 @@ The flexibility comes with if you need to move to another database layer later, 
 ### 5. Name 3 cloud based NoSQL Databases
   - Firebase 
   - MongoDB 
-  - Atlas 
   - AWS cloud
   
   
