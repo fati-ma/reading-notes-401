@@ -7,7 +7,7 @@
 ## Review, Research, and Discussion
 
 ### 1. Define three related pieces of data in a possible application. An example for a store application might be Product, Category and Department. Describe the constraints and rules on each piece of data and how you would relate these pieces to each other. For example, each Product has a Category and belongs in a Department.
-An registeration system that has Student, Course and Department. Each Students is registered to a Course and belongs to a Department.
+A registeration system that has Student, Course and Department. Each Students is registered to a Course and belongs to a Department.
 
 ### 2. What is the advantage of an ORM, like Mongoose?
 The net result of these is the simplification of database access from applications. MongooseJS provides an abstraction layer on top of MongoDB that eliminates the need to use named collections. Models in Mongoose perform the bulk of the work of establishing up default values for document properties and validating data. Functions may be attached to Models in MongooseJS. This allows for seamless incorporation of new functionality. Queries use function chaining rather than embedded mnemonics which result in code that is more flexible and readable, therefore more maintainable as well. The net result of these is the simplification of database access from applications.
