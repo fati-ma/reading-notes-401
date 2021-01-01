@@ -58,9 +58,6 @@ REST is a software architectural style that defines a set of constraints to be u
 
 ### [Http Basics](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 HTTP stands for Hypertext Transfer Protocol. It's a stateless, application-layer protocol for communicating between distributed systems, and is the foundation of the modern web. As a web developer, we all must have a strong understanding of this protocol.
-
-![](https://cdn.tutsplus.com/net/authors/jeremymcpeak/http1-request-response.png)
-
 Communication between a host and a client occurs, via a request/response pair. The client initiates an HTTP request message, which is serviced through a HTTP response message in return. We will look at this fundamental message-pair in the next section.
 
 
