@@ -33,11 +33,11 @@ SOAP is more rigid than rest but gives us better standardization. REST is more f
 
 # Preparation Materials
 
-- [express middleware explained](https://www.youtube.com/watch?v=9HOem0amlyg)
+## [express middleware explained](https://www.youtube.com/watch?v=9HOem0amlyg)
 
-- [using express middleware](https://expressjs.com/en/guide/using-middleware.html)
+## [using express middleware](https://expressjs.com/en/guide/using-middleware.html)
 
-- [express middleware](https://www.tutorialspoint.com/expressjs/expressjs_middleware.htm)
+## [express middleware](https://www.tutorialspoint.com/expressjs/expressjs_middleware.htm)
 
 
 Express is a routing and middleware web framework that has minimal functionality of its own: An Express application is essentially a series of middleware function calls.
@@ -58,7 +58,8 @@ Types of middleware:
   - Third-party middleware
 
 
-- [using express routing](https://expressjs.com/en/guide/routing.html)
+
+## [using express routing](https://expressjs.com/en/guide/routing.html)
 
 Routing refers to how an application’s endpoints (URIs) respond to client requests. A route method is derived from one of the HTTP methods, and is attached to an instance of the express class.
 
