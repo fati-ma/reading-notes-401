@@ -27,6 +27,7 @@
 |  HTTP and REST | [Read:06](https://github.com/fati-ma/reading-notes-401/blob/main/read-06.md)   | 
 |  Express | [Read:07](https://github.com/fati-ma/reading-notes-401/blob/main/read-07.md)   | 
 |  Express Routing & Connected API | [Read:08](https://github.com/fati-ma/reading-notes-401/blob/main/read-08.md)   | 
+|  API Server | [Read:09](https://github.com/fati-ma/reading-notes-401/blob/main/read-10.md)   | 
 |  Stacks and Queues | [Read:10](https://github.com/fati-ma/reading-notes-401/blob/main/read-10.md)   | 
 
 
