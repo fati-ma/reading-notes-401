@@ -29,6 +29,8 @@
 |  Express Routing & Connected API | [Read:08](https://github.com/fati-ma/reading-notes-401/blob/main/read-08.md)   | 
 |  API Server | [Read:09](https://github.com/fati-ma/reading-notes-401/blob/main/read-10.md)   | 
 |  Stacks and Queues | [Read:10](https://github.com/fati-ma/reading-notes-401/blob/main/read-10.md)   | 
+|  Authentication | [Read:11](https://github.com/fati-ma/reading-notes-401/blob/main/read-11.md)   | 
+
 
 
 #### For further information you can contact me via [LinkedIn](linkedin.com/in/fatima-atiyya-9a0a471b1) or [Slack](ltuc-asac.slack.com).
