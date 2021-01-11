@@ -30,7 +30,8 @@
 |  API Server | [Read:09](https://github.com/fati-ma/reading-notes-401/blob/main/read-10.md)   | 
 |  Stacks and Queues | [Read:10](https://github.com/fati-ma/reading-notes-401/blob/main/read-10.md)   | 
 |  Authentication | [Read:11](https://github.com/fati-ma/reading-notes-401/blob/main/read-11.md)   | 
-|  OAuth | [Read:11](https://github.com/fati-ma/reading-notes-401/blob/main/read-12.md)   | 
+|  OAuth | [Read:12](https://github.com/fati-ma/reading-notes-401/blob/main/read-12.md)   | 
+|  Bearer Authorization | [Read:13](https://github.com/fati-ma/reading-notes-401/blob/main/read-12.md)   | 
 
 
 
