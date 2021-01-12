@@ -31,7 +31,8 @@
 |  Stacks and Queues | [Read:10](https://github.com/fati-ma/reading-notes-401/blob/main/read-10.md)   | 
 |  Authentication | [Read:11](https://github.com/fati-ma/reading-notes-401/blob/main/read-11.md)   | 
 |  OAuth | [Read:12](https://github.com/fati-ma/reading-notes-401/blob/main/read-12.md)   | 
-|  Bearer Authorization | [Read:13](https://github.com/fati-ma/reading-notes-401/blob/main/read-12.md)   | 
+|  Bearer Authorization | [Read:13](https://github.com/fati-ma/reading-notes-401/blob/main/read-13.md)   | 
+|  Access Control (ACL) | [Read:14](https://github.com/fati-ma/reading-notes-401/blob/main/read-14.md)   | 
 
 
 
