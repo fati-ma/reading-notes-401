@@ -19,9 +19,8 @@ The event gets passed to the server through websockets
 A callback function allows us to implement some sort of action on the client end
 
 ## 5. What happens if a client “misses” an event?
-How can we mitigate this? If an event is missed it is ignored. To avoid this have listeners always on and use internal logic to decide if the event is relevant
-
 ## 6. How can we mitigate this?
+If an event is missed it is ignored. To avoid this have listeners always on and use internal logic to decide if the event is relevant
 
 
 # Vocabulary Terms
