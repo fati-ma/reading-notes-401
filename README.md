@@ -37,6 +37,8 @@
 |  Event Driven Applications | [Read:16](https://github.com/fati-ma/reading-notes-401/blob/main/read-16.md)   | 
 |  TCP | [Read:17](https://github.com/fati-ma/reading-notes-401/blob/main/read-17.md)   | 
 |  Socket.io | [Read:18](https://github.com/fati-ma/reading-notes-401/blob/main/read-18.md)   | 
+|  Message Queues | [Read:19](https://github.com/fati-ma/reading-notes-401/blob/main/read-19.md)   | 
+
 
 
 #### For further information you can contact me via [LinkedIn](linkedin.com/in/fatima-atiyya-9a0a471b1) or [Slack](ltuc-asac.slack.com).
