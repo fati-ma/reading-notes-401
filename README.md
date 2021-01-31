@@ -38,6 +38,8 @@
 |  TCP | [Read:17](https://github.com/fati-ma/reading-notes-401/blob/main/read-17.md)   | 
 |  Socket.io | [Read:18](https://github.com/fati-ma/reading-notes-401/blob/main/read-18.md)   | 
 |  Message Queues | [Read:19](https://github.com/fati-ma/reading-notes-401/blob/main/read-19.md)   | 
+|  Component Based UI | [Read:26](https://github.com/fati-ma/reading-notes-401/blob/main/read-26.md)   | 
+
 
 
 
