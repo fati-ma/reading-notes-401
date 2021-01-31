@@ -62,9 +62,9 @@ This command creates a build directory that houses a production build of the app
 - [components and props](https://reactjs.org/docs/components-and-props.html)
 
 - Components allow the UI to be split in to independent, reuseable pieces, similar to JS functions
-- Simplest form: function Welcome(props) {return <h1>Hello, {props.name}</h1>}
+- Simplest form: ``` function Welcome(props) {return <h1>Hello, {props.name}</h1>}```
 - props = properties
-- ES6 class: class Welcome extends React.Component { render () { return <h1>Hello, {this.props.name}</h1>; }}
+- ES6 class: ```class Welcome extends React.Component { render () { return <h1>Hello, {this.props.name}</h1>; }}```
 - Always capitalize component names
 - All React components must act like pure functions regarding their props
 
