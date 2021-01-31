@@ -26,6 +26,7 @@ This command creates a build directory that houses a production build of the app
 - Unit testing: Jest works well for testing React apps
 - Deployment: Must deploy the final /build directory
 
+
 # Vocabulary Terms
 
 **BDD** Behavior Driven Development, develope based on user behavior, combines test driven development with the business side to create a common understanding between devs, PMs, and other disciplines.
