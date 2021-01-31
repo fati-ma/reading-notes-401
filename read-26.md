@@ -29,6 +29,8 @@ A library contains a methods that can be implemented to accomplish a task where 
 
 ## - [react hello world](https://reactjs.org/docs/hello-world.html)
 
+React is an open-source, front end, JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.
+
 ```
 ReactDOM.render(
   <h1>Hello, world!</h1>,
@@ -38,10 +40,14 @@ ReactDOM.render(
 
 ## - [introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
 
+JSX is a syntax extension to JavaScript.
+
 - Tag syntax that looks something like this:
 ```
 const element = <h1>Hello, world!</h1>;
 ```
+
+- You can embed extentions in JSX such as variables. You can put any valid JavaScript expression inside the curly braces in JSX.
 
 -instead of separating technologies by putting markup and logic in separate files, we can separate concerns with loosely coupled components that contain both.
 
@@ -52,6 +58,8 @@ const element = <h1>Hello, world!</h1>;
 ## - [rendering elements](https://reactjs.org/docs/rendering-elements.html)
 
 - The smallest building block of a React app
+
+- Applications built with just React usually have a single root DOM node. If you are integrating React into an existing app, you may have as many isolated root DOM nodes as you like.
 
 - To render something in an html div somewhere, you pass both the react element and the root DOM, like this:
   ```
