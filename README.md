@@ -39,8 +39,7 @@
 |  Socket.io | [Read:18](https://github.com/fati-ma/reading-notes-401/blob/main/read-18.md)   | 
 |  Message Queues | [Read:19](https://github.com/fati-ma/reading-notes-401/blob/main/read-19.md)   | 
 |  Component Based UI | [Read:26](https://github.com/fati-ma/reading-notes-401/blob/main/read-26.md)   | 
-| Props and State
- | [Read:27](https://github.com/fati-ma/reading-notes-401/blob/main/read-27.md)   | 
+|  Props and State | [Read:27](https://github.com/fati-ma/reading-notes-401/blob/main/read-27.md)   | 
 
 
 
