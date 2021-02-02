@@ -1,0 +1,57 @@
+# Readings: Routing
+## Read: 29 - Class 29
+### Hello this is ***Fatima*** :smile:, welcome to my blog where I will share with you the notes I take during reading from the resources provided each class. :closed_book: :pencil2:
+### You can visit my GitHub repo for the readings notes from [here](https://github.com/fati-ma/reading-notes-401) or this webpage markdown file using this [link](https://github.com/fati-ma/reading-notes-401/blob/main/read-29.md).
+
+# Review, Research, and Discussion
+
+## 1. Do child components have direct access to props/state from the parent?
+Not direct access, but via `this.props`
+
+## 2. When a component “wraps” another component, how does the child component’s output get rendered?
+```
+<Main>
+  <Content />
+</Main>
+```
+
+Child components conditionally render UI based on the state passed to them from the wrapping component
+
+## 3. Can a component, such as `<Content />`, which is a child also be used as a standalone component elsewhere in the application?
+Stateless components can be rendered by other parent components
+
+## 4. What trick can a parent use to share all props with it’s children
+Using the spread operator allows all of a parents props to be passed to its child
+
+
+# Vocabulary Terms
+
+**props.children** A property of a parent component that shows all of its children components, can be used render all children
+
+**composition** Is how one can build components from other components allowing for differing complexity and specialization
+
+
+# Preparation Materials
+
+## [browser router tutorial](https://blog.pshrmn.com/simple-react-router-v4-tutorial/)
+
+- Install `$npm i react-router-dom`
+- `import { BrowserRouter } from 'react-router-dom';`
+- `<Browser Router>` should be used for dynamic websites
+- `<HashRouter>` should be used for static sites
+- Each router creates a `history` object used to keep track of current location
+- Routers only expect a single child, so build an App component to render the other children
+
+## [browser router api docs](https://reactrouter.com/web/api)
+
+- `useHistory` hook gives access to the history instance used to navigate
+- `useLocation` hook returns location object representing the current URL
+- `useParams` returns an object of key/value pairs of URL parameters
+- `useRouteMatch` hook attempts to match current URL
+- `<Route>` component is the most important, its job is to render some content when a path matches the current URL
+- Routes without a path always match
+
+### Bookmark
+- [react-if component](https://www.npmjs.com/package/react-if)
+- [react testing library queries](https://testing-library.com/docs/queries/about/)
+- [aria roles](https://www.w3.org/TR/html-aria/)
