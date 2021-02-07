@@ -58,9 +58,22 @@ Answer: Hooks should not be used inside of a loop
 Authoring
 
 - [custom hooks - all you need to know](https://www.telerik.com/kendo-react-ui/react-hooks-guide/#toc-custom-react-hooks)
+   - `useEffect` tells react to do something after the render is complete and after every update
+   - `useEffect(()=>{document.title = 'You clicked ${count} times'});`
+   - Custom hooks are prefixed with the word `use`, normal function but follows the rules of creating a Hook
+   
 - [async hooks](https://dev.to/vinodchauhan7/react-hooks-with-async-await-1n9g)
+   - Offers an example of how to code a fetch request to google books
+   - Cannot use `async` keyword with `useEffect` will create race condition
+   
 - [useReducer Hook](https://reactjs.org/docs/hooks-reference.html#usereducer)
+   - Reducer takes in `(state, action)` and returns current state and a dispatch method
+   - Preferable when complex state logic or multiple sub-values or when state depends on previous
+   
 - [react custom hooks](https://reactjs.org/docs/hooks-custom.html)
+   - When you want to share logic between two hooks, extract to a third hook
+   - name must start with use
+   - state inside custom hooks is isolated
 
 Hooks Lists/Collections
 
