@@ -44,6 +44,7 @@
 |  Routing | [Read:29](https://github.com/fati-ma/reading-notes-401/blob/main/read-29.md)   |
 |  Hash Tables | [Read:30](https://github.com/fati-ma/reading-notes-401/blob/main/read-30.md)   | 
 |  Hooks API | [Read:31](https://github.com/fati-ma/reading-notes-401/blob/main/read-31.md)   | 
+|  Custom Hooks | [Read:32](https://github.com/fati-ma/reading-notes-401/blob/main/read-32.md)   | 
 
 
 
