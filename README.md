@@ -46,6 +46,7 @@
 |  Hooks API | [Read:31](https://github.com/fati-ma/reading-notes-401/blob/main/read-31.md)   | 
 |  Custom Hooks | [Read:32](https://github.com/fati-ma/reading-notes-401/blob/main/read-32.md)   |
 |   Context API | [Read:33](https://github.com/fati-ma/reading-notes-401/blob/main/read-33.md)   | 
+|   Login and Auth | [Read:34](https://github.com/fati-ma/reading-notes-401/blob/main/read-34.md)   | 
 
 
 
