@@ -49,6 +49,7 @@
 |   Login and Auth | [Read:34](https://github.com/fati-ma/reading-notes-401/blob/main/read-34.md)   | 
 |   Graph | [Read:35](https://github.com/fati-ma/reading-notes-401/blob/main/read-35.md)   | 
 |   Application State with Redux | [Read:36](https://github.com/fati-ma/reading-notes-401/blob/main/read-36.md)   |
+|   Combined Redux | [Read:37](https://github.com/fati-ma/reading-notes-401/blob/main/read-37.md)   |
 
 
 
