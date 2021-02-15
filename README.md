@@ -50,7 +50,7 @@
 |   Graph | [Read:35](https://github.com/fati-ma/reading-notes-401/blob/main/read-35.md)   | 
 |   Application State with Redux | [Read:36](https://github.com/fati-ma/reading-notes-401/blob/main/read-36.md)   |
 |   Combined Redux | [Read:37](https://github.com/fati-ma/reading-notes-401/blob/main/read-37.md)   |
-
+|   Asynchronous Actions | [Read:38](https://github.com/fati-ma/reading-notes-401/blob/main/read-38.md)   |
 
 
 #### For further information you can contact me via [LinkedIn](linkedin.com/in/fatima-atiyya-9a0a471b1) or [Slack](ltuc-asac.slack.com).
