@@ -27,17 +27,17 @@ eparate out the actions so each calls a specific reducer
 
 # Preparation Materials
 
-## [dan abramov on suspense]
-## [async actions]
+## [dan abramov on suspense]()
+## [async actions](https://redux.js.org/tutorials/fundamentals/part-6-async-logic)
 - Redux middleware enables writing logic with side effects
 - Redux `Thunk` middleware allows us to write functions that get `dispatch` and `getState` as arguments
 - `$npm install redux-thunk`
 - `import thunkMiddleware from 'redux-thunk'`
 - `const composedEnhancer = composeWithDevTools(applyMiddleware(thunkMiddleware))`
 
-## [thunk middleware]
+## [thunk middleware](https://github.com/reduxjs/redux-thunk)
 - Allows you to write action creators that return a function instead of an action
 - Can be used to delay dispatch or conditionally dispatch
 - "The term originated as a humorous past-tense version of 'think'."
 - `import { createStore, applyMiddleware } from 'redux';`
-## [redux thunk]
+## [redux thunk](https://www.digitalocean.com/community/tutorials/redux-redux-thunk)
